@@ -1,0 +1,10 @@
+DRC Rules Export File for PCB: C:\Users\Public\Documents\Altium\NANOBLE\NANO33BLE.PcbDoc
+RuleKind=Clearance|RuleName=BGAclearance|Scope=Board|Minimum=4.25
+RuleKind=Width|RuleName=BGAwidth|Scope=Board|Minimum=4.25
+RuleKind=ShortCircuit|RuleName=SJ4|Scope=Board|Allowed=1
+RuleKind=Clearance|RuleName=GND_POLYGONS|Scope=Board|Minimum=7.87
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
+RuleKind=SolderMaskExpansion|RuleName=Solder_VIA|Scope=Board|Minimum=4.00
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=5.00
+RuleKind=Clearance|RuleName=Generic clearance 0.15mm|Scope=Board|Minimum=5.91

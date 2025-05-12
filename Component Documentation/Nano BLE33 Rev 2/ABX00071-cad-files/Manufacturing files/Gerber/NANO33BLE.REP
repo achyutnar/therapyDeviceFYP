@@ -1,0 +1,491 @@
+*************************************************************
+FileName = NANO33BLE.GBR
+AutoAperture = True
+*************************************************************
+Generating : Board
+      File : NANO33BLE.GM4
+
+    Adding Layer      : Board
+
+    Adding Layer      : Board
+
+
+Used DCodes :
+    D12
+*************************************************************
+
+*************************************************************
+Generating : Route Tool Path
+      File : NANO33BLE.GM3
+
+    Adding Layer      : Route Tool Path
+
+    Adding Layer      : Board
+
+
+Used DCodes :
+    D12
+    D110
+*************************************************************
+
+*************************************************************
+Generating : Keep-Out Layer
+      File : NANO33BLE.GKO
+
+    Adding Layer      : Keep-Out Layer
+
+    Adding Layer      : Board
+
+
+Used DCodes :
+    D12
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : NANO33BLE.GBO
+
+    Adding Layer      : Bottom Overlay
+
+    Adding Layer      : Board
+
+
+Used DCodes :
+    D12
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste
+      File : NANO33BLE.GBP
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : Board
+
+    Adding Layer      : BOTTOM
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D12
+    D40
+    D99
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : NANO33BLE.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Board
+
+    Adding Layer      : BOTTOM
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D12
+    D40
+    D78
+    D79
+    D80
+    D97
+    D103
+    D104
+    D105
+    D106
+    D107
+    D108
+    D109
+*************************************************************
+
+*************************************************************
+Generating : SIG
+      File : NANO33BLE.G2
+
+    Adding Layer      : SIG
+
+    Adding Layer      : Board
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D12
+    D84
+    D86
+    D88
+    D90
+    D91
+    D92
+    D94
+    D95
+    D96
+*************************************************************
+
+*************************************************************
+Generating : GND
+      File : NANO33BLE.G1
+
+    Adding Layer      : GND
+
+    Adding Layer      : Board
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D12
+    D88
+    D91
+    D92
+    D94
+*************************************************************
+
+*************************************************************
+Generating : TOP
+      File : NANO33BLE.GTL
+
+    Adding Layer      : TOP
+
+    Adding Layer      : Board
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+    D40
+    D41
+    D42
+    D43
+    D44
+    D45
+    D46
+    D47
+    D48
+    D81
+    D82
+    D83
+    D84
+    D85
+    D86
+    D87
+    D88
+    D89
+    D90
+    D91
+    D92
+    D93
+    D94
+*************************************************************
+
+*************************************************************
+Generating : Drill Drawing
+      File : NANO33BLE.GD1
+
+    Adding Layer      : Board
+
+    Adding Drill Pair : TOP-BOTTOM
+
+    Adding Layer      : Drill Drawing
+
+
+Used DCodes :
+    D12
+    D111
+    D112
+*************************************************************
+
+*************************************************************
+Generating : Drill Guide
+      File : NANO33BLE.GG1
+
+    Adding Layer      : Board
+
+    Adding Drill Pair : TOP-BOTTOM
+
+    Adding Layer      : Drill Guide
+
+
+Used DCodes :
+    D12
+    D111
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : NANO33BLE.GTS
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Board
+
+    Adding Layer      : TOP
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D12
+    D13
+    D14
+    D15
+    D16
+    D27
+    D28
+    D29
+    D34
+    D36
+    D37
+    D38
+    D49
+    D50
+    D51
+    D52
+    D53
+    D54
+    D55
+    D56
+    D57
+    D58
+    D59
+    D60
+    D61
+    D62
+    D63
+    D64
+    D65
+    D66
+    D67
+    D68
+    D69
+    D70
+    D71
+    D72
+    D73
+    D74
+    D75
+    D76
+    D77
+    D78
+    D79
+    D80
+*************************************************************
+
+*************************************************************
+Generating : BOTTOM
+      File : NANO33BLE.GBL
+
+    Adding Layer      : BOTTOM
+
+    Adding Layer      : Board
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D40
+    D84
+    D86
+    D87
+    D88
+    D89
+    D90
+    D91
+    D92
+    D93
+    D94
+    D97
+    D98
+    D99
+    D100
+    D101
+    D102
+*************************************************************
+
+*************************************************************
+Generating : Top Paste
+      File : NANO33BLE.GTP
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : Board
+
+    Adding Layer      : TOP
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+    D40
+    D41
+    D42
+    D43
+    D44
+    D45
+    D46
+    D47
+    D48
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : NANO33BLE.GTO
+
+    Adding Layer      : Top Overlay
+
+    Adding Layer      : Board
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+*************************************************************
+
+*************************************************************
+Generating : Top Pad Master
+      File : NANO33BLE.GPT
+
+    Adding Layer      : TOP
+
+    Adding Layer      : Multi-Layer
+
+    Adding Layer      : Board
+
+
+Used DCodes :
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+    D40
+    D41
+    D42
+    D43
+    D44
+    D45
+    D46
+    D47
+    D48
+    D81
+    D82
+    D83
+    D91
+    D92
+    D93
+*************************************************************
+
+*************************************************************
+Generating : Bottom Pad Master
+      File : NANO33BLE.GPB
+
+    Adding Layer      : BOTTOM
+
+    Adding Layer      : Multi-Layer
+
+    Adding Layer      : Board
+
+
+Used DCodes :
+    D12
+    D40
+    D91
+    D92
+    D93
+    D97
+    D98
+    D99
+    D100
+    D101
+*************************************************************
+
